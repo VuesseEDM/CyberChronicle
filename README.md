@@ -8,8 +8,7 @@
 **Personale through**  
 Hi, this is my new app to stay updated in real-time on world news in the field of computer technology. When you enter the page, the latest 10 news will be displayed, but if you're not interested in the first 10, you can always load more. At the bottom of the page, you'll find my social media links where you can see what I'm up to, and if you're interested, don't hesitate to write to me to keep me updated on the web world.    
 
-  To access, you don't need to install any software; you just need an electronic device connected to the internet, and the news will be loaded for you.     
-  ---
+
   
  ## ⤵️  Preview   
 
@@ -33,7 +32,11 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 - ```Webpack```
   
 --- 
----
+---  
+
+
+  To access, you don't need to install any software; you just need an electronic device connected to the internet, and the news will be loaded for you.     
+  ---
 
    📂 **Folder Structure** 
 
