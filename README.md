@@ -35,8 +35,7 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 ---  
 
 
-  To access, you don't need to install any software; you just need an electronic device connected to the internet, and the news will be loaded for you.     
-  ---
+
 
    📂 **Folder Structure** 
 
@@ -51,8 +50,12 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 |--🌐package.Json  
 |--💻 webpack.config.js        
     👋 **Contacts**  
----     
+---    
 
+
+  To access, you don't need to install any software; you just need an electronic device connected to the internet, and the news will be loaded for you.     
+  ---  
+  
 "These are the links where you can contact me for any needs related to the web world."  
 
 - **LinkedIn**  : https://LinkedIn.com/VuesseEDM   
