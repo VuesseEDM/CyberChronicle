@@ -3,7 +3,8 @@
 
 
 👉 [PDF](https://github.com/VuesseEDM/CyberChronicle/blob/36620443e38bd75c2b42b734fb62e012e1521431/document/CyberChronicle.pdf)    
-👉 [CyberChronicle-App](https://vuesseedm.github.io/CyberChronicle/)       
+👉 [CyberChronicle-App](https://vuesseedm.github.io/CyberChronicle/)      
+👉 [Netfly](https://cyber-chronicle.netlify.app/)  
 
 **Personale through**  
 Hi, this is my new app to stay updated in real-time on world news in the field of computer technology. When you enter the page, the latest 10 news will be displayed, but if you're not interested in the first 10, you can always load more. At the bottom of the page, you'll find my social media links where you can see what I'm up to, and if you're interested, don't hesitate to write to me to keep me updated on the web world.    
