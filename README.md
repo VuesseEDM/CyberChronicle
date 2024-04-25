@@ -91,12 +91,15 @@ CyberChronicle is a real-time news app focusing on computer technology. It provi
 |-- webpack.config.js        
 
 ---
+🌐 **Contacts**  
+---
 
-## Contacts  
+- **LinkedIn**  : https://LinkedIn.com/VuesseEDM
 
-- **LinkedIn**: [VuesseEDM](https://LinkedIn.com/VuesseEDM)
-- **GitHub**: [VuesseEDM](https://github.com/VuesseEDM)
-- **Email**: vuesse2impact@gmail.com
+- **GitHub**  : https://github.com/VuesseEDM
+
+- **Email**  : vuesse2impact@gmail.com
+---
 
 ---
 
