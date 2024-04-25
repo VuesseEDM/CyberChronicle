@@ -38,8 +38,7 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
    📂 **Folder Structure** 
 
 |--📁dist      
-|--📃document         
-|-- ⚙ node_modules 
+|--📃document           
 |--📁src      
 |--|--🎨css    
 |--|--⚙️js   
