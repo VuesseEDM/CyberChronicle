@@ -32,7 +32,42 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 - ```Git```   
 - ```Webpack```
   
---- 
+---   
+## Installation
+1. Clone the repository to your computer using the command:
+    ```bash
+    git clone https://github.com/VuesseEDM/CyberChronicle.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd CyberChronicle
+    ```
+3. Install the necessary dependencies using your preferred package manager. For example, if you are using npm:
+    ```bash
+    npm install
+    ```
+   Make sure you have installed all dependencies before proceeding.
+
+## Contribution
+If you wish to contribute to this project, follow these steps:
+1. Fork the repository and clone your fork to your computer.
+2. Create a new branch for your modification:
+    ```bash
+    git checkout -b new-feature-contributors
+    ```
+3. Make your changes and ensure that the code is clean and well-documented (including any bug fixes).
+4. Add and commit your changes:
+    ```bash
+    git add .
+    git commit -m "Added new feature-contributors"
+    ```
+5. Push your changes to your remote repository:
+    ```bash
+    git push origin new-feature-contributors
+    ```
+6. Create a pull request from your branch to the main repository.
+7. Be open to feedback and changes requested by project collaborators.
+
 ---  
 
 
