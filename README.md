@@ -39,16 +39,16 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 
 |--📁dist      
 |--📃document         
-|--⚙️node_modules 
+|-- ⚙ node_modules 
 |--📁src      
-|--|--✨css    
+|--|--🎨css    
 |--|--⚙️js   
 |--📖README.md     
-|--🌐index.html      
+|--📡index.html      
 |--🌐package-lock.Json     
 |--🌐package.Json  
-|--🌐 webpack.config.js        
-    🌐 **Contacts**  
+|--💻 webpack.config.js        
+    👋 **Contacts**  
 ---     
 
 "These are the links where you can contact me for any needs related to the web world."  
