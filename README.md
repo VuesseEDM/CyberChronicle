@@ -29,13 +29,13 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 
    
 
-- Visual Studio Code
-- HTML5
-- JavaScript
-- CSS3
-- Node.js
-- Git
-- Webpack
+- ```Visual Studio Code```
+- ```HTML5```
+- ```JavaScript```
+- ```CSS3```
+- ```Node.js```
+- ```Git```
+- ```Webpack```
 
 ### Preview
 
