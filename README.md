@@ -16,7 +16,7 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
    ---
 ---
 *Tools and Technologies Used*   
-- ```Visual Studio Code``` ![VSC](https://blog.noblinkyblinky.com/wp-content/uploads/2017/09/vsc-logo.png  | width=30)         
+- ```Visual Studio Code``` <img src="https://blog.noblinkyblinky.com/wp-content/uploads/2017/09/vsc-logo.png" alt="VSC" width="30">        
 - ```HTML5```     ![HTML]([URL_del_tuo_logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s))     
 - ```JavaScript```     ![JS](URL_del_tuo_logo)      
 - ```CSS3```     ![CSS](URL_del_tuo_logo)      
