@@ -4,7 +4,8 @@
 
 ## Overview
 
-CyberChronicle is a real-time news app focusing on computer technology. It provides the latest news updates, and you can load more news if needed. Additionally, you can find social media links at the bottom of the page to stay connected.
+**Personale through**  
+Hi, this is my new app to stay updated in real-time on world news in the field of computer technology. When you enter the page, the latest 10 news will be displayed, but if you're not interested in the first 10, you can always load more. At the bottom of the page, you'll find my social media links where you can see what I'm up to, and if you're interested, don't hesitate to write to me to keep me updated on the web world. 
 
 ### Links
 
