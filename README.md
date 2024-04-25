@@ -12,25 +12,19 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 
     
        
-   🔧**How I Built My Portfolio**   
-   ---
----  
- <img src="https://blog.noblinkyblinky.com/wp-content/uploads/2017/09/vsc-logo.png" alt="VSC" width="50">
-     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" alt="HTML5" width="50">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JAVASCRIPT" width="50">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="50">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NODE.JS" width="50"> 
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="50"> 
-      <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="WEBPACK" width="50"> 
-     
+ 🔧 **How I Built My Portfolio**   
+---
+<img src="https://blog.noblinkyblinky.com/wp-content/uploads/2017/09/vsc-logo.png" alt="VSC" width="50"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmou6evgeGnMsU4Kac3TEv60q65uqVigxib1NYMmoFw&s" alt="HTML5" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JAVASCRIPT" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NODE.JS" width="50"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="50"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="WEBPACK" width="50"> 
+
 *Tools and Technologies Used*   
 - ```Visual Studio Code```     
 - ```HTML5```    
 - ```JavaScript``` 
 - ```CSS3```       
- - ```Node.js```      
+- ```Node.js```      
 - ```Git```   
-- ``` Webpack  ```  
+- ```Webpack```
+  
 
    📂 ```Folder Structure```   
 
