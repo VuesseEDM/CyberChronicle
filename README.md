@@ -78,9 +78,9 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 
 ---
 
-## Folder Structure
+## 📂 Folder Structure
 
- 📂 **Folder Structure** 
+
 
 |--📁dist      
 |--📃document           
