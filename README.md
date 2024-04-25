@@ -79,19 +79,24 @@ CyberChronicle is a real-time news app focusing on computer technology. It provi
 
 ## Folder Structure
 
-|-- dist      
-|-- document           
-|-- src      
-|   |-- css    
-|   |-- js   
-|-- README.md     
-|-- index.html      
-|-- package-lock.Json     
-|-- package.Json  
-|-- webpack.config.js        
+ 📂 **Folder Structure** 
 
+|--📁dist      
+|--📃document           
+|--📁src      
+|--|--🎨css    
+|--|--⚙️js   
+|--📖README.md     
+|--📡index.html      
+|--🌐package-lock.Json     
+|--🌐package.Json  
+|--💻 webpack.config.js        
+     
+---          
+ To access, you don't need to install any software; you just need an electronic device connected to the internet, and the news will be loaded for you.     
+  ---
 ---
-🌐 **Contacts**  
+👋 **Contacts**  
 ---
 
 - **LinkedIn**  : https://LinkedIn.com/VuesseEDM
@@ -102,8 +107,7 @@ CyberChronicle is a real-time news app focusing on computer technology. It provi
 ---
 
 ---
-
-To access the app, you just need an electronic device connected to the internet. 
+ 
 
 🙌 Thanks for Visiting!
 
