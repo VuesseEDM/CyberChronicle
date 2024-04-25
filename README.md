@@ -9,7 +9,28 @@
 - ```FontAwesome```    
  - ```Bootstrap```         
  - ```Node.js```    
-- ```Git```         
+- ```Git```
+
+   📂 ```Folder Structure```   
+
+|--📁dist    
+|--|--⚙️bundle.js   
+|--|--📃bundle.js.LICENSE.txt  
+|--|--index.html     
+|--📃document   
+|--|--PDF-CYBERCHRONICLE    
+|--⚙️node_modules 
+|--📁src      
+|--|--✨css    
+|--|--|--🌈style.css   
+|--|--⚙️js   
+|--|--index.html    
+|--📖README.md     
+|--🌐index.html      
+|--🌐package-locl.Json     
+|--🌐package.Json  
+|--🌐 webpack.config.js  
+---
     🌐 **Contacts**  
 ---   
 - **LinkedIn**  : https://LinkedIn.com/VuesseEDM   
