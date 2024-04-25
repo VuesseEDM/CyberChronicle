@@ -11,15 +11,15 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
   To access, you don't need to install any software; you just need an electronic device connected to the internet, and the news will be loaded for you.     
   ---
   
- ## ⤵️  Preview Devices  
+ ## ⤵️  Preview   
 
-![PREVIEW](https://raw.githubusercontent.com/VuesseEDM/COSMIC-COUNTER-X/main/assets/document/copertina.png)  
+![PREVIEW](https://github.com/VuesseEDM/CyberChronicle/blob/main/document/desktop.png?raw=true)  
 
 ---
 
     
        
- 🔧 **How I Built My Portfolio**   
+ 🔧 **How I Built Cyber Chronicles**   
 ---
 <img src="https://banner2.cleanpng.com/20180330/hiq/kisspng-visual-studio-code-computer-icons-microsoft-visual-coding-5abef0f91e7f38.3082551815224629691249.jpg" alt="VSC" width="50"> <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" alt="HTML5" width="50"> <img src="https://i2.wp.com/www.associazioneincanto.it/wp-content/uploads/2016/03/js-logo-1.png?fit=500%2C500&ssl=1" alt="JAVASCRIPT" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NODE.JS" width="50"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="GIT" width="50"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="WEBPACK" width="50"> 
 
@@ -47,7 +47,7 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 |--🌐index.html      
 |--🌐package-lock.Json     
 |--🌐package.Json  
-|--🌐 webpack.config.js    
+|--🌐 webpack.config.js        
     🌐 **Contacts**  
 ---     
 
