@@ -1,9 +1,7 @@
-# CyberChronicle    
+# CyberChronicle     🚀   
 ---
 
-*Cyber Chronicle!* 🚀      
---- 
----
+
 👉 [PDF](https://github.com/VuesseEDM/CyberChronicle/blob/36620443e38bd75c2b42b734fb62e012e1521431/document/CyberChronicle.pdf)    
 👉 [My Website](https://vuesseedm.github.io/CyberChronicle/)    
    🔧**How I Built My Portfolio**   
