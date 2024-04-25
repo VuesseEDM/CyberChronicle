@@ -25,8 +25,10 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 - ```Git```   
 - ```Webpack```
   
+--- 
+---
 
-   📂 ```Folder Structure```   
+   📂 **Folder Structure** 
 
 |--📁dist      
 |--📃document         
