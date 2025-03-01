@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     try {
       // richiesta GET per recuperare gli ID delle news
       const response = await axios.get(linkApiUrl);
-      // se la risposta è ok
+      // se la risposta non è ok
       if (!response.status === 200) {
         // Se la risposta non è ok, genero un errore
         throw new Error("Error retrieving news IDs.");
