@@ -2,7 +2,7 @@ import axios from "axios";
 import _ from "lodash";
 import "../css/style.css";
 
-// evento 'DOMContentLoaded', che viene attivato quando il DOM è
+// evento 'DOMContentLoaded', che viene attivato quando il DOM è caricato 
 document.addEventListener("DOMContentLoaded", async function () {
   let newsToLoad = []; //  array per memorizzare gli ID delle news già caricate,in modo tale danon essere riproposte
 
