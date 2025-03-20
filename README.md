@@ -100,7 +100,7 @@ Hi, this is my new app to stay updated in real-time on world news in the field o
 👋 **Contacts**  
 ---
 
-- **LinkedIn**  : https://LinkedIn.com/VuesseEDM
+- **LinkedIn**  : https://www.linkedin.com/in/vincenzo-sorrentino-front-end-developer/
 
 - **GitHub**  : https://github.com/VuesseEDM
 
